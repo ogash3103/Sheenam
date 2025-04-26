@@ -10,10 +10,9 @@ namespace Sheenam.Api.Controllers
 {
     [ApiController]
     [Route("api/[controller]");
-
     public class HomeController : RESTFulController
     {
         [HttpGet]
-        public ActionResult<string> Get() => "Hello Sheenam API";
+        public string Get() => "Hello Sheenam API";
     }
 }

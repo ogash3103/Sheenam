@@ -4,3 +4,7 @@
 
 
 /Sheenam.Api/appsettings.json
+
+.vs/
+bin/
+obj/
