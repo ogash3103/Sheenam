@@ -9,7 +9,7 @@ using RESTFulSense.Controllers;
 namespace Sheenam.Api.Controllers
 {
     [ApiController]
-    [Route("api/[controller]");
+    [Route("api/[controller]")]
     public class HomeController : RESTFulController
     {
         [HttpGet]
