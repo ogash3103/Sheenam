@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Sheenam\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C8917E20-F817-4513-A698-8F68B38D652A}|Sheenam.Api.Test.Unit\\Sheenam.Api.Test.Unit.csproj|c:\\users\\user\\sheenam\\sheenam.api.test.unit\\deleteme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8917E20-F817-4513-A698-8F68B38D652A}|Sheenam.Api.Test.Unit\\Sheenam.Api.Test.Unit.csproj|solutionrelative:sheenam.api.test.unit\\deleteme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{26225F97-0C3F-4FA7-A516-48D657A600CA}|Sheenam.Api\\Sheenam.Api.csproj|c:\\users\\user\\sheenam\\sheenam.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26225F97-0C3F-4FA7-A516-48D657A600CA}|Sheenam.Api\\Sheenam.Api.csproj|solutionrelative:sheenam.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,30 +22,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DeleteMe.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Sheenam\\Sheenam.Api.Test.Unit\\DeleteMe.cs",
+              "RelativeDocumentMoniker": "Sheenam.Api.Test.Unit\\DeleteMe.cs",
+              "ToolTip": "C:\\Users\\User\\Sheenam\\Sheenam.Api.Test.Unit\\DeleteMe.cs",
+              "RelativeToolTip": "Sheenam.Api.Test.Unit\\DeleteMe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T07:50:50.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Sheenam\\Sheenam.Api\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Sheenam.Api\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\User\\Sheenam\\Sheenam.Api\\Controllers\\HomeController.cs*",
-              "RelativeToolTip": "Sheenam.Api\\Controllers\\HomeController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\Sheenam\\Sheenam.Api\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Sheenam.Api\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T15:31:18.753Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Sheenam\\Sheenam.Api\\Program.cs",
               "RelativeDocumentMoniker": "Sheenam.Api\\Program.cs",
               "ToolTip": "C:\\Users\\User\\Sheenam\\Sheenam.Api\\Program.cs",
               "RelativeToolTip": "Sheenam.Api\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T15:28:22.867Z"
             }

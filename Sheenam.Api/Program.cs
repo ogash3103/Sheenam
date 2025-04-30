@@ -16,6 +16,7 @@ namespace MyApiProject
 
             // Servislarni container'ga qo‘shish
             builder.Services.AddControllers();
+
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
