@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sheenam.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f16649c1b5fe5076a78c4a3db07b077c28ef202")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc3a26dbd8cc13364ffde1bae1216ebfe76010d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sheenam.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sheenam.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

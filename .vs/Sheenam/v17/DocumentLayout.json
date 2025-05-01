@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Sheenam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8917E20-F817-4513-A698-8F68B38D652A}|Sheenam.Api.Test.Unit\\Sheenam.Api.Test.Unit.csproj|c:\\users\\user\\sheenam\\sheenam.api.test.unit\\deleteme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8917E20-F817-4513-A698-8F68B38D652A}|Sheenam.Api.Test.Unit\\Sheenam.Api.Test.Unit.csproj|solutionrelative:sheenam.api.test.unit\\deleteme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C677A226-9D38-4D1E-81A1-0BE9C3CE8507}|Sheenam.Api.Infirastracture.Build\\Sheenam.Api.Infirastracture.Build.csproj|c:\\users\\user\\sheenam\\sheenam.api.infirastracture.build\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C677A226-9D38-4D1E-81A1-0BE9C3CE8507}|Sheenam.Api.Infirastracture.Build\\Sheenam.Api.Infirastracture.Build.csproj|solutionrelative:sheenam.api.infirastracture.build\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C677A226-9D38-4D1E-81A1-0BE9C3CE8507}|Sheenam.Api.Infirastracture.Build\\Sheenam.Api.Infirastracture.Build.csproj|c:\\users\\user\\sheenam\\sheenam.api.infirastracture.build\\setupdotnettask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C677A226-9D38-4D1E-81A1-0BE9C3CE8507}|Sheenam.Api.Infirastracture.Build\\Sheenam.Api.Infirastracture.Build.csproj|solutionrelative:sheenam.api.infirastracture.build\\setupdotnettask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26225F97-0C3F-4FA7-A516-48D657A600CA}|Sheenam.Api\\Sheenam.Api.csproj|c:\\users\\user\\sheenam\\sheenam.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26225F97-0C3F-4FA7-A516-48D657A600CA}|Sheenam.Api\\Sheenam.Api.csproj|solutionrelative:sheenam.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26225F97-0C3F-4FA7-A516-48D657A600CA}|Sheenam.Api\\Sheenam.Api.csproj|c:\\users\\user\\sheenam\\sheenam.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26225F97-0C3F-4FA7-A516-48D657A600CA}|Sheenam.Api\\Sheenam.Api.csproj|solutionrelative:sheenam.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26225F97-0C3F-4FA7-A516-48D657A600CA}|Sheenam.Api\\Sheenam.Api.csproj|c:\\users\\user\\sheenam\\sheenam.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26225F97-0C3F-4FA7-A516-48D657A600CA}|Sheenam.Api\\Sheenam.Api.csproj|solutionrelative:sheenam.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8917E20-F817-4513-A698-8F68B38D652A}|Sheenam.Api.Test.Unit\\Sheenam.Api.Test.Unit.csproj|c:\\users\\user\\sheenam\\sheenam.api.test.unit\\deleteme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8917E20-F817-4513-A698-8F68B38D652A}|Sheenam.Api.Test.Unit\\Sheenam.Api.Test.Unit.csproj|solutionrelative:sheenam.api.test.unit\\deleteme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,20 +38,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SetupDotNetTask.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Sheenam\\Sheenam.Api.Infirastracture.Build\\SetupDotNetTask.cs",
+              "RelativeDocumentMoniker": "Sheenam.Api.Infirastracture.Build\\SetupDotNetTask.cs",
+              "ToolTip": "C:\\Users\\User\\Sheenam\\Sheenam.Api.Infirastracture.Build\\SetupDotNetTask.cs",
+              "RelativeToolTip": "Sheenam.Api.Infirastracture.Build\\SetupDotNetTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T14:32:34.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Sheenam\\Sheenam.Api.Infirastracture.Build\\Program.cs",
+              "RelativeDocumentMoniker": "Sheenam.Api.Infirastracture.Build\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Sheenam\\Sheenam.Api.Infirastracture.Build\\Program.cs*",
+              "RelativeToolTip": "Sheenam.Api.Infirastracture.Build\\Program.cs*",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T13:01:27.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "DeleteMe.cs",
               "DocumentMoniker": "C:\\Users\\User\\Sheenam\\Sheenam.Api.Test.Unit\\DeleteMe.cs",
               "RelativeDocumentMoniker": "Sheenam.Api.Test.Unit\\DeleteMe.cs",
-              "ToolTip": "C:\\Users\\User\\Sheenam\\Sheenam.Api.Test.Unit\\DeleteMe.cs*",
-              "RelativeToolTip": "Sheenam.Api.Test.Unit\\DeleteMe.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\Sheenam\\Sheenam.Api.Test.Unit\\DeleteMe.cs",
+              "RelativeToolTip": "Sheenam.Api.Test.Unit\\DeleteMe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T07:53:14.642Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Sheenam\\Sheenam.Api\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Sheenam.Api\\Controllers\\HomeController.cs",
@@ -62,9 +96,10 @@
               "RelativeDocumentMoniker": "Sheenam.Api\\Program.cs",
               "ToolTip": "C:\\Users\\User\\Sheenam\\Sheenam.Api\\Program.cs",
               "RelativeToolTip": "Sheenam.Api\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBAAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T15:28:22.867Z"
+              "WhenOpened": "2025-04-26T15:28:22.867Z",
+              "EditorCaption": ""
             }
           ]
         }
